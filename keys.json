@@ -1,1 +1,30 @@
-
+{
+  "version": 1,
+  "keys": [
+    {
+      "code": "aBcDeFgHiJkLmNoPqRsT",
+      "activationDate": null,
+      "expiryDate": "2026-11-01"
+    },
+    {
+      "code": "ZyXwVuTsRqPoNmLkJiHg",
+      "activationDate": null,
+      "expiryDate": "2026-11-03"
+    },
+    {
+      "code": "mNqRstUvWxYzAbCdEfGh",
+      "activationDate": null,
+      "expiryDate": "2026-11-10"
+    },
+    {
+      "code": "pQrStUvWxYzAbCdEfGhJ",
+      "activationDate": null,
+      "expiryDate": "2026-12-01"
+    },
+    {
+      "code": "KjHgFeDcBaZyXwVuTsRq",
+      "activationDate": null,
+      "expiryDate": "2027-01-01"
+    }
+  ]
+}
